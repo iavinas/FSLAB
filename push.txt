@@ -1,0 +1,4 @@
+git pull
+git add .
+git commit -m 'files added'
+git push origin master <<iavinas
