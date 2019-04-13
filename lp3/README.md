@@ -74,9 +74,14 @@ enter the name=>Avinash
 	3.exit
 
 	 choice=>3
+
 enter your choice
+
 1.insert a record
+
 2.search and modify a record
+
 3.exit
+
 3
 
