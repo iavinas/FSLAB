@@ -72,7 +72,7 @@ void coseq::merge()
 			if(!avail[i]) continue;
 			if(list[i][c2[i]] < sml) {
 				sml = list[i][c2[i]];
-				s_list=1;
+				s_list=i;
 			}
 		}
 		c2[s_list]++;
