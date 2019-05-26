@@ -75,7 +75,7 @@ void retrieve_record(char *index)
             cout<<"\nUSN\t\tName\tSemester\n";
             while(p!=NULL)
             {
-                p=strtok(NULL,"/");
+                p=strtok(NULL,"|");
                 if(p!=NULL)
                 cout<<p<<"\t";
             }
